@@ -16,6 +16,6 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         System.out.println("Alejandro Guevara");
         System.out.println("Quinto Sistemas");
-        System.out.println("Desarrollo de Software");
+        System.out.println("Desarrollo Software");
     }
 }
